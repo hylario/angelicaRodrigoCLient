@@ -1,28 +1,33 @@
+@font-face {
+  font-family: Weeding;
+  src: url(./fonts/Distant_Stroke_Medium.otf);
+}
+
+body{
+  background-color: #4169e1;
+  color: #ddd;
+}
+
 .App {
   text-align: center;
+  font-family: Weeding;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
   height: 80px;
 }
 
 .App-header {
-  background-color: #222;
   height: 150px;
   padding: 20px;
-  color: white;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 6.5em;
+  margin-top: 0px;
+  font-weight: normal;
 }
 
 .App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  font-size: 70px;
 }
