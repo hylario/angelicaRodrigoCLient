@@ -7,8 +7,8 @@ import Auth from './Auth';
 
 import './Welcome.css';
 
-const WEBROOT = 'http://localhost:5000/';
-// const WEBROOT = 'https://angelica-rodrigo.herokuapp.com/';
+// const WEBROOT = 'http://localhost:5000/';
+const WEBROOT = 'https://angelica-rodrigo.herokuapp.com/';
 
 class Welcome extends Component {
 	constructor(props) {
