@@ -48,6 +48,8 @@ class Welcome extends Component {
 					    callback={this.responseFacebook}
 					    textButton="Entrar com Facebook"
 					    cssClass="FacebookButton"
+					    xfbml={true}
+					    version="2.12"
 					  />
 			  	</div>
 			</div>
