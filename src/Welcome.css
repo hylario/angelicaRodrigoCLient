@@ -1,0 +1,15 @@
+.FacebookButtonDiv{
+  margin-top: 60px;
+}
+
+.FacebookButton{
+  border-radius: 10px;
+  background: #4267b2;
+  color: #ddd;
+  border: solid 1px #b7b7b7;
+  padding: 8px;
+  cursor: pointer;
+}
+.FacebookButton:hover{
+  background: #5678bd;
+}

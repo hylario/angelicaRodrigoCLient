@@ -2,6 +2,14 @@
   font-family: Weeding;
   src: url(./fonts/Distant_Stroke_Medium.otf);
 }
+@font-face {
+  font-family: OpenSansCondensed-Bold;
+  src: url(./fonts/OpenSansCondensed-Bold.ttf);
+}
+@font-face {
+  font-family: OpenSansCondensed-Light;
+  src: url(./fonts/OpenSansCondensed-Light.ttf);
+}
 
 body{
   background-color: #4169e1;
@@ -30,4 +38,5 @@ body{
 
 .App-intro {
   font-size: 70px;
+  margin-top: 80px;
 }
